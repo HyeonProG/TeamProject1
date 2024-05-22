@@ -1,3 +1,5 @@
+Original gitHub https://github.com/bbangEor/miniProject
+
 ****## 자바&스프링부트 교육과정 1차 팀프로젝트!
 ![화면 캡처 2024-05-20 163155](https://github.com/bbangEor/miniProject/assets/146004308/4046468d-3a9c-4479-a044-52198c131cfd)
 
